@@ -1,3 +1,3 @@
-module.exports = {
-    Compiler: require('./lib/compile')
-};
+module.exports = function(grunt) {
+    
+}
